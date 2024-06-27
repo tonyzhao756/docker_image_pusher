@@ -1,5 +1,1 @@
-kube-scheduler:v1.23.6
-kube-proxy:v1.23.6
-pause:3.6
-etcd:3.5.1-0
-coredns:v1.8.6
+calico/cni:v3.25.0
